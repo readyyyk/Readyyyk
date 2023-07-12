@@ -4,6 +4,8 @@
 
 <h2 align="center"> Never great enough </h2>
 
+<a href="https://wakatime.com/@readyyyk"><img src="https://wakatime.com/badge/user/cf578893-46db-4f69-ba9f-f13dea678bf9.svg" alt="Total time coded since Jun 8 2023" /></a>
+
 - ⚒️ Working on [__ChatBin__](https://github.com/readyyyk/chatbin) 💬 and it's [__Server__](https://github.com/readyyyk/chatbin-server) 💻
 - 📫 Text me: [t.me/Ready_k](https://t.me/Ready_k) ⚡ Collaboration is the thing i need 👯
 - 🌱 Learning how to teach
