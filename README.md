@@ -4,14 +4,16 @@
 
 <h2 align="center"> Never great enough </h2>
 
-<a href="https://wakatime.com/@readyyyk"><img src="https://wakatime.com/badge/user/cf578893-46db-4f69-ba9f-f13dea678bf9.svg" alt="Total time coded since Jun 8 2023" /></a>
+⚒️ Working on project for NDTP 🐔,
+FOX cars 🚚,
+БрестТрансКонсалт 🚛
 
-- ⚒️ Working on [__ChatBin__](https://github.com/readyyyk/chatbin) 💬 and it's [__Server__](https://github.com/readyyyk/chatbin-server) 💻
-- 📫 Text me: [t.me/Ready_k](https://t.me/Ready_k) ⚡ Collaboration is the thing i need 👯
-- 🌱 Learning how to teach
+📫 Text me: [t.me/Ready_k](https://t.me/Ready_k) ⚡ Collaboration is the thing i need 👯
 
-<h2 align="center"> <a href="https://chatbinr.netlify.app/"> ChatBin </a> </h2>
+🌱 Learning how to Enterprise 🏢
 
+<!-- <h2 align="center"> <a href="https://chatbinr.netlify.app/"> ChatBin </a> </h2> -->
+<p align=center> <a href="https://wakatime.com/@readyyyk"><img src="https://wakatime.com/badge/user/cf578893-46db-4f69-ba9f-f13dea678bf9.svg" alt="Total time coded since Jun 8 2023" /></a> </p>
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=readyyyk&repo=chatbin&theme=dark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=readyyyk&repo=chatbin-server&theme=dark"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=readyyyk&hide=html&langs_count=4&layout=compact&size_weight=1&count_weight=0.4&theme=dracula" alt="language stats">
+<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=readyyyk&repo=chatbin&theme=dark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=readyyyk&repo=chatbin-server&theme=dark"> --> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=readyyyk&hide=html&langs_count=4&layout=compact&size_weight=1&count_weight=0.4&theme=dracula" alt="language stats">
 </p>
