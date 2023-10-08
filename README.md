@@ -4,7 +4,7 @@
 
 <h2 align="center"> Never great enough </h2>
 
-⚒️ Working on [__**ChaPy**__ 🍪](t.me/cha_py)
+⚒️ Working on [__**ChaPy**__ 🍪](https://t.me/cha_py)
 
 📫 Text me: [t.me/Ready_k](https://t.me/Ready_k) ⚡ Collaboration is the thing i need 👯
 
