@@ -14,4 +14,8 @@
 </p>
 <p align=center>
 <!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=readyyyk&repo=chatbin&theme=dark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=readyyyk&repo=chatbin-server&theme=dark"> --> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=readyyyk&hide=html&langs_count=4&layout=compact&size_weight=1&count_weight=0.4&theme=dracula" alt="language stats">
+
+ <h3 align=center> Real acitivity: </h3>
+ 
+ <p align=center><img src="https://wakatime.com/share/@readyyyk/839edb2e-8d56-4720-a3a8-3d119cc79ade.svg"></img></p>
 </p>
