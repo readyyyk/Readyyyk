@@ -16,6 +16,13 @@
  <img src="https://hit.yhype.me/github/profile?user_id=78100125" alt="">
 </p>
 
+<p align=right>
+ <img src=https://skillicons.dev/icons?i=js,go,php,py,bash>
+</p>
+<p align=right>
+ and related to them
+</p>
+
 
 
 📫 Text me: [t.me/Ready_k](https://t.me/Ready_k)
