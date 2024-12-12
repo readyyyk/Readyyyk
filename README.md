@@ -30,3 +30,5 @@
 - GistsReader + todoist integration
 - Self-Intranet
 - PrintGreg
+
+📈 Resume: https://rxresu.me/mr.sairexer/readyks
