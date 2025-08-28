@@ -29,13 +29,10 @@
 
 👯 Collaboration is the thing i need 
 
+🔀 Moving to http://sourcecraft.dev/
+
 🌱 Learning how to Enterprise 
 
-🖼️ Probably future projects:
-- Chapy (implemented, rewrite + new features)
-- Re:worthy (implemented, rewrite + new features)
-- GistsReader + todoist integration
-- Self-Intranet
-- PrintGreg
+☈ started work on self-intranet
 
 📈 Resume: https://rxresu.me/mr.sairexer/readyks
