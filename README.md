@@ -25,9 +25,7 @@
 
 
 
-📫 Text me: [t.me/Ready_k](https://t.me/Ready_k)
-
-👯 Collaboration is the thing i need 
+📫 Text me: [t.me/Ready_k](https://t.me/Ready_k) 👯 Collaboration is the thing i need 
 
 🔀 Moving to http://sourcecraft.dev/
 
