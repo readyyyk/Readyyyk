@@ -21,7 +21,7 @@
 
 📫 Text me: [t.me/Ready_k](https://t.me/Ready_k) 👯 Collaboration is the thing i need 
 
-🔀 Moving to ~~http://sourcecraft.dev/~~ https://gitlab.com (until custom git provider whould be implemented)
+🔀 Moving to ~~http://sourcecraft.dev/~~ | ~~https://gitlab.com~~ | gh (for generous free tiers) (until custom git provider whould be implemented)
 
 🌱 Learning how to Enterprise 
 
